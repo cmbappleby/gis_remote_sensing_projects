@@ -1,1 +1,1 @@
-# post-fire veg regrowth analysis using Landsat
+# GIS project from my graduate classes at Idaho State Univeristy.
