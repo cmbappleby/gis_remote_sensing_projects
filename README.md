@@ -1,5 +1,5 @@
 # GIS and Remote Sensing Projects
-Projects from classes at Idaho State Univeristy and University of Rhode Island.
+Projects from classes at Idaho State Univeristy and University of Rhode Island, as well as StoryMaps.
 
 ## Highlighted Projects
 The following projects respectively highlight:
