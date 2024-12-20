@@ -23,4 +23,4 @@ Using Sentinel-1 radar imagery, performed Differential InSAR and Small Baseline 
 Processed raw LiDAR data, including strip alignment, spatial indexing, and point cloud alignment with a photogrammetry point cloud. Used these point clouds to classify the points and create various products such as a digital elevation model, canopy height map, and orthomosaic.
 
 ## StoryMap
-In addition to the StoryMap for the [Post-Fire Vegetation Regrowth Analysis](https://arcg.is/qbGqu0), I created a StoryMap for a research project, [Static GNSS Accuracy Assessment of Pixel 8 Pro](https://storymaps.arcgis.com/stories/60b5ebb4aa254eccb254d92e8056bfac).
+In addition to the StoryMap for the [Post-Fire Vegetation Regrowth Analysis](https://arcg.is/qbGqu0), I created a StoryMap for a research project, [Static GNSS Accuracy Assessment of Pixel 8 Pro](https://storymaps.arcgis.com/stories/37f0aef368994d948259cd33b0ff4a74).
