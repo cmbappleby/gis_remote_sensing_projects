@@ -13,8 +13,8 @@ Projects with an asterisk (*) are research papers for final projects and also sh
 ### [Post-Fire Vegetation Regrowth Analysis](https://github.com/cmbappleby/gis_remote_sensing_projects/blob/main/post_fire_veg_regrowth_analysis.pdf)*
 Performed a linear regression analysis using pre- and post-fire NDVI data to assess the impact of slope, aspect, and burn severity on post-fire vegetation regrowth at the Cold Fire burn scar in California. Used free and open-source software (FOSS), including various Python packages, Jupyter Notebook, QGIS, and earth observation data to demonstrate the cost-effectiveness and flexibility of FOSS. [Jupyter Notebook](https://github.com/cmbappleby/gis_remote_sensing_projects/blob/main/post_fire_veg_regrowth_analysis_Landsat.ipynb). Checkout the [StoryMap](https://storymaps.arcgis.com/stories/9c62be19687d43f5b8062bc423ea9c4c) for this project.
 
-### [Prairie Dog Burrow Detection](https://github.com/cmbappleby/gis_remote_sensing_projects/blob/main/prairie_dog_burrow_detection_sUAS_DL.pdf)*
-Evaluated the effectiveness of the Faster-RCNN object detection architecture for prairie dog burrow dection using imagery obtained from a small, uncrewed aerial system and ArcGIS Pro.
+### [Jackrabbit Detection in Thermal Video](https://github.com/cmbappleby/gis_remote_sensing_projects/blob/main/YOLOv5_thermal_jackrabbit_detection.pdf))*
+Evaluated the effectiveness of the YOLOv5 machine learning model for detecting jackrabbits in thermal imagery obtained using a sUAS.
 
 ### [Uintah Basin Interferometric Synthetic Aperature Radar (InSAR) Analysis](https://github.com/cmbappleby/gis_remote_sensing_projects/blob/main/uintah_basin_InSAR_SBAS.pdf)*
 Using Sentinel-1 radar imagery, performed Differential InSAR and Small Baseline Subset InSAR to detect land subsidence of the Natural Buttes gas field in Northeaster Utah using the European Space Agency SNAP software and the Alaska Satellite Facility OpenScienceLab.
